@@ -15,6 +15,18 @@ th, td {
     text-align:center;
      
 }
+  .button3 {background-color: #f44336;}
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
 
 
 label {
