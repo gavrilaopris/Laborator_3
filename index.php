@@ -127,7 +127,7 @@ while($row=$sd->fetch()){
         
 
  <br><br>
-        <input type="submit" name="inserare"
+        <input type="submit" name="Inserare"
         class="button" value="inserare" /> 
     </form>
 </div>
