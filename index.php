@@ -100,7 +100,7 @@ while($row=$sd->fetch()){
     echo "<td>".$row['nume']."</td>";
     echo "<td>".$row['greutateKg']."</td>";
     echo "<td>".$row['inaltimeCm']."</td>";
-    echo "<td>"."<form method='post'><input type='submit' name=$aux class='button' value='Stergere'"."</tr>";
+    echo "<td>"."<form method='post'><input type='submit' name=$aux class='button3' value='Stergere'"."</tr>";
     
 
 }
@@ -128,7 +128,7 @@ while($row=$sd->fetch()){
 
  <br><br>
         <input type="submit" name="inserare"
-        class="btn btn-success" value="inserare" /> 
+        class="button" value="inserare" /> 
     </form>
 </div>
 
